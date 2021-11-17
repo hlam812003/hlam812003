@@ -9,4 +9,5 @@
 - 🔷 Language: English
 - ⚡ Hobbies: Traveling, Coding, Sport , ...
 
-https://github-readme-stats.vercel.app/api?username=hlam812003
+<img src="https://github-readme-stats.vercel.app/api?username=hlam812003&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlam812003&layout=compact&theme=radical"> 
+
