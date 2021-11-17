@@ -1,4 +1,4 @@
-### Hello, I'm HWAN from H&N DEVELOPMENT 👋
+### Hello, I'm HWAN from H&N TEAM 👋
 
 * ABOUT ME :
 
