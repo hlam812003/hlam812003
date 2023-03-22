@@ -1,6 +1,6 @@
 ### Hello, I'm HWAN from  UTE UNI 👋
 
-* ABOUT ME :
+* ABOUT MYSELF:
 
 - 🔭 I'm currently studying at HCMUTE, VIET NAM
 - 🌱 I’m currently a Front-End Developer
